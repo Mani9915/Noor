@@ -1,10 +1,5 @@
 /* =======================================================================
-Template Name: Dil Hospital
-Author:  SmartEye Adminpanel
-Author URI: www.smarteyeapps.com
-Version: 1.0
-coder name:Prabin Raja
-Description: This Template is created for web template
+
 ======================================================================= */
 /* ===================================== Import Less ================================== */
 :root {
@@ -270,7 +265,7 @@ body {
 
 /* ===================================== Full Screen Background CSS ======================== */
 .banner-container {
-  background-image: url(../images/head_bg.jpg);
+  background-image: url(head_bg.jpg);
   background-size: 100%;
   height: 100%; }
   @media screen and (max-width: 699px) {
@@ -314,7 +309,7 @@ body {
     right: -121px; }
 
 .page-title {
-  background-image: url(../images/head_bg.jpg);
+  background-image: url(head_bg.jpg);
   background-size: 100%;
   height: 400px;
   padding-top: 155px;
